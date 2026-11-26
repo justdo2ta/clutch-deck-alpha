@@ -1,0 +1,18 @@
+{
+  "name": "클러치 덱 알파",
+  "short_name": "클러치 덱 알파",
+  "description": "내 타석과 후반 수비를 카드로 플레이하는 야구 시즌 알파",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070E18",
+  "theme_color": "#070E18",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
